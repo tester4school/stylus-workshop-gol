@@ -19,7 +19,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.0",
-    "viem": "^2.53.1",
+    "viem": "^2.54.6",
     "wagmi": "^3.6.21"
   },
   "devDependencies": {
