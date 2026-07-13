@@ -19,8 +19,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.0",
-    "viem": "^2.53.1",
-    "wagmi": "^3.6.21"
+    "viem": "^2.55.1",
+    "wagmi": "^3.7.1"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.7",
